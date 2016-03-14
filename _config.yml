@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Ben's Blog
+locale:           en_UK
 url:
 
 
@@ -41,7 +41,7 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Ben
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email:
