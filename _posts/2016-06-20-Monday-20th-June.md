@@ -6,6 +6,8 @@ permalink: /monday-20th-june/
 source-id: 1p0VHcRrhG51VLEgCdQ6FVfb-BGKgLTWZf3o7y7WMcRg
 published: true
 ---
+**Monday 20th June**
+
 Blog post - Every week.
 
 The blog is meant to be about what you learn each week. Not what a list of what happened each week.
