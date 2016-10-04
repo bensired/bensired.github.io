@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>The stuff I will change for next time is the pace that I worked at. I worked at a slow pace because I kept on looking to see which file the thing I was looking for I was in. It will improve my learning because it means I will get more done in  the lesson.</td>
+    <td>The stuff I will change for next time is the pace that I worked at. I worked at a slow pace because I kept on looking to see which file the thing I was looking for I was in. It will improve my learning because it means I will get more done in the lesson.</td>
   </tr>
 </table>
 
