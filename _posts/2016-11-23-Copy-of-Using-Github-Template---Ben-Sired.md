@@ -1,5 +1,5 @@
 ---
-title: Copy of Using Github Template - Ben Sired
+title: Thursday 10th November
 layout: post
 author: ben.sired
 permalink: /copy-of-using-github-template---ben-sired/
