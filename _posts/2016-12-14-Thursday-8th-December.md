@@ -1,5 +1,5 @@
 ---
-title: Thursday 8th December
+title: Thursday 20th April
 layout: post
 author: ben.sired
 permalink: /thursday-8th-december/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Robot arm</td>
+    <td>Starting Codecademy</td>
     <td>Date</td>
-    <td>8/12/16</td>
+    <td>20/4/17</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>4.1 of the booklet</td>
+    <td>0% on the python section</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>4.2 of the booklet</td>
+    <td>5% on the python section</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,21 +41,20 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>We learnt by trying to do every possibility in a sequence of actions to make sure that one would be right. This was because the wires wouldn't work for when we did it first, and second, and third tries…
-
+    <td>I learnt by reading the instructions that were given to me and processing them in my brain to then execute. The strategy that was effective the most was reading the topic starter and looking at the example that it gave to set as a template for my piece of code. 
 </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The thing that limited my learning is not having too much time to work with the robot arm and to see how it worked before the end of the lesson. This meant that for the last 10 or so minutes we were trying to work out what bit of the robot arm wasn’t plugged in as the programme said "The USB is not connected". </td>
+    <td>The thing that limited my learning the most was my memory. This was because that goes from (for me) an easy stage to a really difficult stage within 4 exercises and then and the end you have to remember all of them. The habit I need to work on is to think about the question a bit more before clicking hint. I only pressed it a couple times but I wouldn't of needed to if I spent a bit longer testing combinations.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>The thing I will change next time is the time we spend on the robot arm and to make sure I know what I’m doing with it.</td>
+    <td>I will change my speed that I work at to engage my memory further.</td>
   </tr>
 </table>
 
