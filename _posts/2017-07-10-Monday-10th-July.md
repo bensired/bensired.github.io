@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 </td>
-    <td>No</td>
+    <td>Yes</td>
   </tr>
 </table>
 
@@ -43,7 +43,7 @@ published: true
   <tr>
     <td>I learnt by writing my code out and then reading through the instructions again and looking at my code. I would say the instructions out loud and either say 'Yep that's it’ or ‘oh missed that’.
 
-This method got me through an exercise that I was stuck on for awhile. However I did it for another exercise and it didn't work but it could be added onto another method.</td>
+This method got me through an exercise that I was stuck on for awhile. However I did it for another exercise and it didn't work but it could be added onto another method. I got to 47%</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?</td>
