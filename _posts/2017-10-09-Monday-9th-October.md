@@ -1,5 +1,5 @@
 ---
-title: Monday 9th October
+title: Monday 16th October
 layout: post
 author: ben.sired
 permalink: /monday-9th-october/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Costs and payrolls</td>
+    <td>Finishing off</td>
     <td>Date</td>
-    <td>9/10/17</td>
+    <td>16/10/17</td>
   </tr>
 </table>
 
@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To progress with what we are told to do</td>
+    <td>Finish everything that we have been told to do</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,13 +41,13 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by thinking of ideas that would apply to the situation at hand, our example, what costs does a company have? After that we had a look at our blog and we learnt how to embed our spreadsheet onto our blog. A strategy that was effective was to note down the code being said for later use. This meant that as long as I noted down the code correctly, the embed spreadsheet would work. The spreadsheet that I have been working on is at the bottom of the page.</td>
+    <td>I learnt by using the skills I learnt from other lessons to carry forward into this lesson as we were just finishing off our spreadsheet work so we would all be on the same level. A strategy that helped to do this was setting the spreadsheet out neatly to avoid confusion.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?</td>
   </tr>
   <tr>
-    <td>This lesson there wasn't much to get wrong as we looked at costs to a company and then used a table to look at payroll which was simple multiplication. After that we looked at our blogs, but didn't put anything into practice so there wasn't much to get wrong or anything that would have limited my learning.</td>
+    <td>Nothing really limited my learning this lesson, as it was more of getting the tables and words in place rather than code.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
@@ -60,11 +60,5 @@ published: true
 </td>
   </tr>
 </table>
-
-<br>
-<br>
-<hr>
-<h3>Some work</h3>
-<iframe width = "125%" height = "600px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTuEermi-5nTEdx6k3TZaYVxmeCQ2EGguVCA-aV3G8h78HMoqpGtK-w1MTFr-7BSaynH4S7NiKC010B/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
