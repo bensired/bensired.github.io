@@ -14,3 +14,8 @@ Nothing really limited my learning this lesson but the fact that you needed to w
 
 I will change my learning by testing different ideas out within the same broader idea once I have finished the work set which will improve my learning as well due to understanding the broader idea to a plum.
 
+<br>
+<br>
+<hr>
+<h3>Some work</h3>
+<iframe width = "100%" height = "400px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTuEermi-5nTEdx6k3TZaYVxmeCQ2EGguVCA-aV3G8h78HMoqpGtK-w1MTFr-7BSaynH4S7NiKC010B/pubhtml?widget=true&amp;headers=false"></iframe>
